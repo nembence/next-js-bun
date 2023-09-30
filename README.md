@@ -1,4 +1,4 @@
-# Introduction
+# Introduction test
 
 This project is a modern web application developed with [**Next.js**](https://nextjs.org), a popular React framework that offers server-side rendering, static site generation, and routing. It utilizes the [**Bun**](https://bun.sh) package manager for managing dependencies and building assets efficiently. The application is deployed on [**Vercel**](https://vercel.com/features/infrastructure), a cloud platform for hosting web applications with built-in CI/CD. The project leverages [**Spline**](https://spline.design) which is a friendly 3D collaborative design tool for the web.
 
