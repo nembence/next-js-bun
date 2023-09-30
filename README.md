@@ -1,6 +1,16 @@
-# Fun sentences about Next.js and Bun as starter
+# Introduction
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is a modern web application developed with **Next.js**, a popular React framework that offers server-side rendering, static site generation, and routing. It utilizes the **Bun** package manager for managing dependencies and building assets efficiently. The application is deployed on **Vercel**, a cloud platform for hosting web applications with built-in CI/CD.
+
+## Prerequisites
+
+Install Bun globally using npm or yarn:
+
+```bash
+npm install -g bun
+# or
+yarn global add bun
+```
 
 ## Commands
 
@@ -22,4 +32,10 @@ Run lint:
 
 ```bash
 bun lint
+```
+
+Install packages (Bun is Node.js-compatible package manager):
+
+```bash
+bun install package_name
 ```
